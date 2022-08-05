@@ -1,0 +1,1 @@
+[1, "h DOWN", 1, "e DOWN", 1, "h UP", 1, "e UP", 1, "l DOWN", 1, "l UP", 1, "l DOWN", 1, "o DOWN", 1, "l UP", 1, "o UP"]

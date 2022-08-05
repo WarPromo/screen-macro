@@ -1,0 +1,1 @@
+[1, "LSUPER DOWN", 1, "LSUPER UP", 111, "t DOWN", 1, "t UP", 1, "a DOWN", 1, "a UP", 1, "s DOWN", 1, "s UP", 1, "k DOWN", 1, "k UP", 1, "SPACE DOWN", 1, "SPACE UP", 1, "m DOWN", 1, "m UP", 1, "a DOWN", 1, "a UP", 1, "n DOWN", 1, "n UP", 1, "RETURN DOWN", 1, "RETURN UP"]
